@@ -36,6 +36,14 @@ An end-to-end commercial research and product strategy project built in Microsof
   * 🔗 [BOM — Air Pure 3 (Pro Model)](https://app.notion.com/p/BOM-Air-Pure-3-3c8f06419c6d8026b5a2e77206f820ba)
   * 🔗 [BOM — Air Pure 4 Ultra (Flagship Model)](https://app.notion.com/p/BOM-Air-Pure-4-Ultra-3c6f06419c6d807bbf3ddcfc2e85d91b)
 
+ * CITY OVERVIEW DASBHOARD <img width="1727" height="661" alt="image" src="https://github.com/user-attachments/assets/02f7115d-7ac2-4e9d-9d52-24b83331d265" />
+ * HEALTH IMPACT DASHBOARD <img width="1790" height="654" alt="image" src="https://github.com/user-attachments/assets/e1e3aa82-efb6-4e26-8b91-68146ffff5db" />
+ * MARKET RESEARCH DASHBOARD <img width="1780" height="653" alt="image" src="https://github.com/user-attachments/assets/63c1ccea-0fdc-4158-867f-8a455d508c70" />
+  PRODUCT MATRIX 
+  1) <img width="1816" height="638" alt="image" src="https://github.com/user-attachments/assets/16267e8c-8302-401e-aefd-efefac368d6a" />
+  2) <img width="1790" height="705" alt="image" src="https://github.com/user-attachments/assets/08efae35-91bb-48fa-984d-5bbbe4e3e3bd" />
+  3) <img width="1814" height="709" alt="image" src="https://github.com/user-attachments/assets/4fbe340b-ace7-4be4-9005-617348d5a8c9" />
+  4) <img width="1773" height="736" alt="image" src="https://github.com/user-attachments/assets/8890b7de-0e70-4482-a7bc-b7970d8dcab3" />
 
 ---
 
